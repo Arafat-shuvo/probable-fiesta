@@ -1,4 +1,4 @@
-100+ AI Models — Optimizer Research
+# 100+ AI Models — Optimizer Research
 Overview
 
 This project is focused on developing and evaluating 100+ AI models with a primary goal of understanding how different optimizers affect model training, performance, stability, and generalization.
