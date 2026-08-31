@@ -5,7 +5,7 @@ This project is focused on developing and evaluating 100+ AI models with a prima
 
 Rather than building a single model, the project explores a large collection of models and training configurations to systematically compare their behavior.
 
-The main objective is to identify:
+**The main objective is to identify:**
 
 Which optimizers perform best for different model architectures
 How optimizer choice affects convergence speed
