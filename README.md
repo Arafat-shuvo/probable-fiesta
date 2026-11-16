@@ -79,12 +79,8 @@ MODEL-100+
 
 A more descriptive naming convention can be used:
 
+
 M001_ADAM_MLP
 M002_ADAMW_MLP
 M003_SGD_MLP
-M004_LION_MLP
 
-
-For larger experiments:
-
-M001-A
